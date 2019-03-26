@@ -1,0 +1,6 @@
+name: "uq-training"
+output_dir: "docs"
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

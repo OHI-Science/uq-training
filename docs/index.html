@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title>Open Data Science Training at the University of Queensland</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Open Data Science Training at the University of Queensland</h1>
+
+</div>
+
+
+<p><br> <img src="images/sb_banner.jpg"> <br></p>
+<div id="welcome" class="section level1">
+<h1>Welcome</h1>
+<p>Welcome to <strong>Open Data Science Training at the University of Queensland</strong> in Brisbane, Australia, from June 18-19, 2019.</p>
+</div>
+<div id="course-description" class="section level1">
+<h1>Course Description</h1>
+<p>This training workshop will introduce you to open data science so you can work with data in an open, reproducible, and collaborative way. Open data science means that methods, data, and code are available so that others can access, reuse, and build from it without much fuss. Coding and using collaborative software helps you reproduce your analyses, be more efficient, and share and collaborate easily with others. Here you will learn a reproducible science workflow with R, RStudio, Git, and GitHub, as recently described in <a href="https://www.nature.com/articles/s41559-017-0160">Lowndes <em>et al.</em> 2017, <em>Nature Ecology &amp; Evolution</em></a>.</p>
+<p>This workshop is going to be fun, because learning these open data science tools and practices is empowering! We will live-code as we teach, with you doing everything hands-on on your own computer as you learn. <a href="http://ohi-science.org/data-science-training/">Our training materials</a> that we use to teach are online and available for you as a reference. It can also be used as self-paced learning, or you can use it to teach an in-person workshop, as we have done with <a href="https://jules32.github.io/2017-11-30-MBARI/">Software Carpentry</a>.</p>
+<p>This workshop is for you if:</p>
+<ul>
+<li>the question ‘can you redo your analysis but just in this time span?’ sends chills down your spine…</li>
+<li>you’ve ever emailed files with collaborators (including yourself) that have names like <code>data_analysis_v5.xls</code> or <code>script_final_2017_03_04.R</code>…</li>
+</ul>
+<p>Our 2-day workshop will give you exposure to the best available free resources today, hands-on experience coding with them on your own computer, and confidence to continue using them in your own research. And you’ll have a community of peers to continue coding with after the workshop.</p>
+<p>We will cover:</p>
+<ul>
+<li>programming and data wrangling, and visualization with R and RStudio</li>
+<li>version control with git and GitHub</li>
+<li>reproducible documents and publishing with RMarkdown</li>
+</ul>
+<p><strong><em>No prior experience with R, RStudio, and GitHub are required.</em></strong></p>
+</div>
+<div id="instructor-bios" class="section level1">
+<h1>Instructor Bios</h1>
+<p>Instructors are part of the <a href="http://ohi-science.org">Ocean Health Index</a> team at the National Center for Ecological Analysis and Synthesis <a href="https://www.nceas.ucsb.edu/">(NCEAS)</a>.</p>
+<div id="julie-lowndes" class="section level3">
+<h3>Julie Lowndes</h3>
+<p><a href="https://jules32.github.io/">Julie Lowndes</a> is a marine ecologist, data scientist, and <a href="https://blog.mozilla.org/blog/2018/08/21/mozilla-announces-25-new-fellows-in-openness-science-and-tech-policy/">Mozilla Fellow</a> at NCEAS. As founding director of <a href="https://openscapes.org">Openscapes</a> and science program lead of the Ocean Health Index, she works to increase the value and practice of environmental open data science. She is a co-founder of <a href="http://eco-data-science.github.io/">EcoDataScience</a> and <a href="https://www.meetup.com/rladies-santa-barbara/">R-Ladies Santa Barbara</a> and is a <a href="https://carpentries.org/">Carpentries</a> instructor. She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.</p>
+</div>
+<div id="jamie-afflerbach" class="section level3">
+<h3>Jamie Afflerbach</h3>
+<p><a href="https://www.jamieafflerbach.com/">Jamie Afflerbach</a> is a marine data scientist at NCEAS. She is lead analyst for the <a href="http://ohi-northeast.weebly.com/">US Northeast Ocean Health Index assessment</a> and one of many scientists working on the annual global OHI assessments. Her work includes assessing the global status of fisheries using data limited methods and synthesizing large spatial datasets to estimate and track human impacts on the global oceans. She is also an enthusiastic proponent of open science and has taught data science training workshops around the US while coordinating two local Santa Barbara data sicence groups, <a href="http://eco-data-science.github.io/">EcoDataScience</a> and <a href="https://www.meetup.com/rladies-santa-barbara/">R-Ladies Santa Barbara</a>.</p>
+</div>
+<div id="melanie-frazier" class="section level3">
+<h3>Melanie Frazier</h3>
+<p>I have been at the NCEAS for nearly 6 years where I currently lead the global Ocean Health Index. Prior to NCEAS, I worked at the U.S. Environmental Protection Agency developing ballast water discharge standards and statistical methods for improving indicators of estuarine health. I earned a PhD from the University of Washington and a Master’s from Arizona State University. I love data and statistics because I believe they can reveal hidden patterns and help us see beyond our biases. R/RStudio and Git/Github have been pivotal to my research, and I use these tools for everything: from data wrangling, data analysis and visualization, workflow, and smoothing collaborative efforts. I love learning new ways to approach data, and I particularly love sharing what I have learned! It is very satisfying when I can teach someone a new skill in a few days or weeks that took me months (or, even years) to figure out.</p>
+</div>
+<div id="workshop-schedule" class="section level2">
+<h2>Workshop schedule</h2>
+<p><em>Coming soon</em></p>
+<!---
+
+Google drive folder *[link forthcoming]*
+
+{r, echo=FALSE, child="uq-schedule.Rmd"}
+
+
+--->
+</div>
+<div id="prerequisites" class="section level2">
+<h2>Prerequisites</h2>
+<p>Before the training, please make sure you have done the following.</p>
+<p>Have up-to-date versions of <code>R</code> and RStudio and have RStudio configured with Git/GitHub:</p>
+<ol style="list-style-type: decimal">
+<li>Download and install R: <a href="https://cloud.r-project.org" class="uri">https://cloud.r-project.org</a></li>
+<li>Download and install RStudio: <a href="http://www.rstudio.com/download" class="uri">http://www.rstudio.com/download</a></li>
+<li>Create a GitHub account: <a href="https://github.com" class="uri">https://github.com</a> <em>Note! Shorter names that kind of identify you are better</em></li>
+</ol>
+</div>
+</div>
+
+<div>
+  <p><br /></p>
+  <p><a rel="license" href="https://www.nceas.ucsb.edu/"><img  src="https://www.nceas.ucsb.edu/files/logos/NCEAS/NCEAS-full%20logo-4C.jpg" width="250px" align="left" /></a> 
+  <a rel="license" href="https://www.uq.edu.au/"><img src="images/UQ-logo.png" width="200px" align="right"/></a></p>
+  <p align="center"><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"  /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. </p>
+</div>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
