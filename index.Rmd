@@ -75,6 +75,8 @@ Google drive folder *[link forthcoming]*
 
 Before the training, please make sure you have done the following. 
 
+Read [Lowndes *et al.* 2017, *Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160).
+
 Have up-to-date versions of `R` and RStudio and have RStudio configured with Git/GitHub: 
 
 1. Download and install R: https://cloud.r-project.org
