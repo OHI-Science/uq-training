@@ -55,7 +55,7 @@ Instructors are part of the [Ocean Health Index](http://ohi-science.org) team at
 
 ### Melanie Frazier
 
-I have been at the NCEAS for nearly 6 years where I currently lead the global Ocean Health Index. Prior to NCEAS, I worked at the U.S. Environmental Protection Agency developing ballast water discharge standards and statistical methods for improving indicators of estuarine health. I earned a PhD from the University of Washington and a Master’s from Arizona State University. I love data and statistics because I believe they can reveal hidden patterns and help us see beyond our biases. R/RStudio and Git/Github have been pivotal to my research, and I use these tools for everything: from data wrangling, data analysis and visualization, workflow, and smoothing collaborative efforts. I love learning new ways to approach data, and I particularly love sharing what I have learned! It is very satisfying when I can teach someone a new skill in a few days or weeks that took me months (or, even years) to figure out.
+Melanie Frazier is a marine scientist at NCEAS. Prior to NCEAS, she worked at the U.S. Environmental Protection Agency developing ballast water discharge standards and statistical methods for improving indicators of estuarine health. She loves data and statistics because they can reveal hidden patterns and help us see beyond our biases. She finds it very satisfying to teach people new skills that will make their lives easier and improve their science!
 
 
 ## Workshop schedule 
