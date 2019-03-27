@@ -40,7 +40,37 @@ We will cover:
 
 ***No prior experience with R, RStudio, and GitHub are required.*** 
 
-# Instructor Bios
+## Workshop schedule 
+
+*Note: schedule and materials may change slightly prior to the workshop*
+
+<!---
+
+Google drive folder *[link forthcoming]*
+
+--->
+
+```{r, echo=FALSE, child="uq-schedule.Rmd"}
+```
+
+---
+
+## Prerequisites
+
+Before the training, please make sure you have done the following. 
+
+Read [Lowndes *et al.* 2017, *Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160).
+
+Have up-to-date versions of `R` and RStudio and have RStudio configured with Git/GitHub: 
+
+1. Download and install R: https://cloud.r-project.org
+2. Download and install RStudio: http://www.rstudio.com/download 
+3. Create a GitHub account: https://github.com *Note! Shorter names that kind of identify you are better*
+
+
+
+
+## Instructor Bios
 
 Instructors are part of the [Ocean Health Index](http://ohi-science.org) team at the National Center for Ecological Analysis and Synthesis [(NCEAS)](https://www.nceas.ucsb.edu/). 
 
@@ -56,31 +86,5 @@ Instructors are part of the [Ocean Health Index](http://ohi-science.org) team at
 ### Melanie Frazier
 
 Melanie Frazier is a marine scientist at NCEAS. Prior to NCEAS, she worked at the U.S. Environmental Protection Agency developing ballast water discharge standards and statistical methods for improving indicators of estuarine health. She loves data and statistics because they can reveal hidden patterns and help us see beyond our biases. She finds it very satisfying to teach people new skills that will make their lives easier and improve their science!
-
-
-## Workshop schedule 
-
-*Coming soon*
-
-<!---
-
-Google drive folder *[link forthcoming]*
-
-{r, echo=FALSE, child="uq-schedule.Rmd"}
-
-
---->
-
-## Prerequisites
-
-Before the training, please make sure you have done the following. 
-
-Read [Lowndes *et al.* 2017, *Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160).
-
-Have up-to-date versions of `R` and RStudio and have RStudio configured with Git/GitHub: 
-
-1. Download and install R: https://cloud.r-project.org
-2. Download and install RStudio: http://www.rstudio.com/download 
-3. Create a GitHub account: https://github.com *Note! Shorter names that kind of identify you are better*
 
 
