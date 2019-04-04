@@ -1,11 +1,12 @@
 |time       |      Day 1|      Day 2|
 |:----------|----------:|----------:|
-|9-10:45    |  Welcome and goals of the workshop (UQ); [Motivation for data science and marine ecology](http://ohi-science.org/data-science-training/overview.html) (JL) | [Visualization (ggplot2)](http://ohi-science.org/data-science-training/ggplot2) (NCEAS - MF)|
-|lunch      | Ben Halpern's Seminar 11-12 | | 
+|9-10:30  |  Welcome and goals of the workshop (BH); [Motivation for data science and marine ecology](http://ohi-science.org/data-science-training/overview.html) (JL) | [Visualization (ggplot2)](http://ohi-science.org/data-science-training/ggplot2) (MF)|
+|tea break 10:30-11 | Centre for Biodiversity and Conservation Science| | 
+|lunch 11-12 | Ben Halpern's Seminar 11-12 (03-309 in the Steele Building)| | 
 |12:30-14:00   | [R, RStudio & RMarkdown](http://ohi-science.org/data-science-training/rstudio.html#rstudio) (JA) |   [Intro to Tidy data](https://nceas.github.io/crescynt-training/workshop_data_integration/tidy_data/tidy_intro#1);  [Data wrangling: `dplyr`](http://ohi-science.org/data-science-training/dplyr.html#dplyr) (JA)  |  
-|break      |  ||
+|tea break      |  ||
 |14:15-15:45 |  [GitHub](http://ohi-science.org/data-science-training/github.html) (MF) | Either [Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html) or [Data integration: tidy coral example](https://nceas.github.io/crescynt-training/tidy_coral) (JL)   | 
-|break      |  |  | | |
+|tea break      |  |  | | |
 |16:00-17:00 | data interlude (JA) | Openscapes closing (JL) | 
 
 

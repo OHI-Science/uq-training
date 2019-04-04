@@ -17,7 +17,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Welcome
 
-Welcome to **Open Data Science Training at the University of Queensland** in Brisbane, Australia, from June 18-19, 2019.  
+Welcome to **Open Data Science Training at the University of Queensland**, hosted by The Faculty of Science and The Centre for Biodiversity and Conservation Science in Brisbane, Australia, from June 18-19, 2019. 
+
+[Registration is open](https://sccsaus2019.formstack.com/forms/better_science) for anyone from The Faculty of Science at UQ, including students and staff. The event is funded by The Faculty of Science Emerging Leaders Programme, and is free to attend. The course will be held in Steele Building Room 315. 
 
 # Course Description
 
@@ -41,6 +43,8 @@ We will cover:
 ***No prior experience with R, RStudio, and GitHub are required.*** 
 
 ## Workshop schedule 
+
+Steele Building Room 315. 
 
 *Note: schedule and materials may change slightly prior to the workshop*
 
@@ -87,4 +91,6 @@ Instructors are part of the [Ocean Health Index](http://ohi-science.org) team at
 
 Melanie Frazier is a marine scientist at NCEAS. Prior to NCEAS, she worked at the U.S. Environmental Protection Agency developing ballast water discharge standards and statistical methods for improving indicators of estuarine health. She loves data and statistics because they can reveal hidden patterns and help us see beyond our biases. She finds it very satisfying to teach people new skills that will make their lives easier and improve their science!
 
+### Ben Halpern 
 
+Ben Halpern is Director of NCEAS and professor at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. Ben’s research interests are primarily in marine ecology and conservation planning but span a wide range of disciplines. He has led several broad research programs addressing different aspects of managing ocean ecosystems, including a global synthesis of how much and where marine protected areas (MPAs) meet conservation and fisheries objectives, development of new tools and the application of them to a global assessment mapping the cumulative impact of human activities on the ocean, and development and global application of the OHI.
