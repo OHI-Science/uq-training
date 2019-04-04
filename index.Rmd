@@ -12,7 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 <br>
-<img src="images/sb_banner.jpg">
+<img src="images/uq_banner.png">
 <br>
 
 # Welcome
