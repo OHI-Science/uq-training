@@ -78,12 +78,12 @@ Have up-to-date versions of `R` and RStudio and have RStudio configured with Git
 
 Instructors are part of the [Ocean Health Index](http://ohi-science.org) team at the National Center for Ecological Analysis and Synthesis [(NCEAS)](https://www.nceas.ucsb.edu/). 
 
-### Julie Lowndes
+### Julie Lowndes [@juliesquid](https://twitter.com/juliesquid)
 
 [Julie Lowndes](https://jules32.github.io/) is a marine ecologist, data scientist, and [Mozilla Fellow](https://blog.mozilla.org/blog/2018/08/21/mozilla-announces-25-new-fellows-in-openness-science-and-tech-policy/) at NCEAS. As founding director of [Openscapes](https://openscapes.org) and science program lead of the Ocean Health Index, she works to increase the value and practice of environmental open data science. She is a co-founder of [EcoDataScience](http://eco-data-science.github.io/) and [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/) and is a [Carpentries](https://carpentries.org/) instructor.  She earned her PhD at Stanford University in 2012 studying drivers and impacts of Humboldt squid in a changing climate.  
 
 
-### Jamie Afflerbach
+### Jamie Afflerbach [@jafflerbach](https://twitter.com/jafflerbach)
 
 [Jamie Afflerbach](https://www.jamieafflerbach.com/) is a marine data scientist at NCEAS. She is lead analyst for the [US Northeast Ocean Health Index assessment](http://ohi-northeast.weebly.com/) and one of many scientists working on the annual global OHI assessments. Her work includes assessing the global status of fisheries using data limited methods and synthesizing large spatial datasets to estimate and track human impacts on the global oceans. She is also an enthusiastic proponent of open science and has taught data science training workshops around the US while coordinating two local Santa Barbara data sicence groups, [EcoDataScience](http://eco-data-science.github.io/) and [R-Ladies Santa Barbara](https://www.meetup.com/rladies-santa-barbara/). 
 

@@ -4,10 +4,10 @@
 |tea break | Centre for Biodiversity and Conservation Science | tea break | | 
 |seminar 11:00-12:00 | Prof Ben Halpern (03-309 in the Steele Building) | 10:45-12:15 | [Data wrangling: `dplyr`](http://ohi-science.org/data-science-training/dplyr.html#dplyr) (JA) | 
 |lunch | | lunch | | 
-|12:30-14:00   | [R, RStudio & RMarkdown](http://ohi-science.org/data-science-training/rstudio.html#rstudio) (JA)  | 13:15-14:45  |[Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html) (JL) |
+|12:30-14:00   | [R, RStudio & RMarkdown](http://ohi-science.org/data-science-training/rstudio.html#rstudio) (JA)  | 13:00-14:30  |[Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html) (JL) |
 |tea break |  |tea break   | |
-|14:15-15:45     | [GitHub](http://ohi-science.org/data-science-training/github.html) (MF) | 15:00-16:30 | [Data in real life: Tidy Coral](https://nceas.github.io/crescynt-training/tidy_coral) (JL) |
-|15:45-16:30 | Data interlude (JA)  | 16:30 | Closing |
+|14:15-15:45     | [GitHub](http://ohi-science.org/data-science-training/github.html) (MF) | 14:45-16:15 | [Data in real life: Tidy Coral](https://nceas.github.io/crescynt-training/tidy_coral) (JL) |
+|15:45-16:30 | Data interlude (JA)  | 16:15-16:45 | Closing |
 
 
 
