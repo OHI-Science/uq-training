@@ -1,13 +1,13 @@
 |Day 1 Time | Schedule|      Day 2 Time | Schedule|
 |:---|:--------------|:---|:--------------|
-|9-10:30  |  Welcome and goals of the workshop (BH); <br> Open data science: motivation & mindset (JL) |9-10:30 | [Visualization (ggplot2)](http://ohi-science.org/data-science-training/ggplot2) (MF)|
+|9-10:30  |  Welcome and goals of the workshop (BH); <br> [Open data science: motivation & mindset](https://docs.google.com/document/d/1YfRc1uEHTLHZeA4yv0TXRGaCF0Lz9a9O7tft62wj2Ck/edit?usp=sharing) (JL) |9-10:30 | [Visualization (ggplot2)](http://ohi-science.org/data-science-training/ggplot2) (MF)|
 |tea break | Centre for Biodiversity and Conservation Science | tea break | | 
 |seminar 11:00-12:00 | Prof Ben Halpern (03-309 in the Steele Building) | 10:45-12:15 | [Data wrangling: `dplyr`](http://ohi-science.org/data-science-training/dplyr.html#dplyr) (JA) | 
 |lunch | | lunch | | 
 |12:30-14:00   | [R, RStudio & RMarkdown](http://ohi-science.org/data-science-training/rstudio.html#rstudio) (JA)  | 13:00-14:30  |[Collaborating with GitHub](http://ohi-science.org/data-science-training/collaborating.html) (JL) |
 |tea break |  |tea break   | |
-|14:15-15:45     | [GitHub](http://ohi-science.org/data-science-training/github.html) (MF) | 14:45-16:15 | [Data in real life: Tidy Coral](https://nceas.github.io/crescynt-training/tidy_coral) (JL) |
-|15:45-16:30 | Data interlude (JA)  | 16:15-16:30 | Closing |
+|14:15-15:45     | [GitHub](http://ohi-science.org/data-science-training/github.html) (MF) | 14:45-16:15 | [Wrangling data in the wild: Tidy Coral](https://nceas.github.io/crescynt-training/tidy_coral) (JL) |
+|15:45-16:30 | Data interlude (JA)  | 16:15-16:30 | Closing; strategies for continued learning |
 | Homework! | `install.packages("tidyverse")` | 17:00 | Pizza party! |
 
 
