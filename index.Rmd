@@ -65,11 +65,12 @@ Before the training, please make sure you have done the following.
 
 Read [Lowndes *et al.* 2017, *Nature Ecology & Evolution*](https://www.nature.com/articles/s41559-017-0160).
 
-Have up-to-date versions of `R` and RStudio and have RStudio configured with Git/GitHub: 
+Download up-to-date versions of R, RStudio, and Git, and create a GitHub account: 
 
 1. Download and install R: https://cloud.r-project.org
 2. Download and install RStudio: http://www.rstudio.com/download 
-3. Create a GitHub account: https://github.com *Note! Shorter names that kind of identify you are better*
+3. Download and install Git: https://git-scm.com/downloads *Note! Successful install won't create an application to open*
+4. Create a GitHub account: https://github.com *Note! Shorter usernames that identify you are best e.g. jafflerbach*
 
 
 
